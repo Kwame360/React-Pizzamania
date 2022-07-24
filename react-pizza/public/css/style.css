@@ -1,0 +1,37 @@
+body {
+  font-family: raleway, sans-serif;
+}
+
+.navbar {
+  background-color: brown;
+  color: white;
+  margin-bottom: 0;
+}
+
+.navbar-default {
+  color: white;
+}
+
+.navbar-default .navbar-brand {
+  color: white;
+}
+
+.navbar-default .navbar-nav li a {
+  color: white;
+}
+
+.carousel-inner {
+  height: 550px;
+}
+
+.about-pizza {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.footer {
+  background-color: brown;
+  color: white;
+  padding: 1.5rem 0;
+}
+/*# sourceMappingURL=style.css.map */
